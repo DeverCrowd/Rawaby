@@ -293,6 +293,7 @@ header {
 }
 
 .text .p2 {
+  font-size: 20px;
   font-family: Patrick Hand, cursive;
   margin-bottom: 16px;
 }
@@ -352,7 +353,7 @@ header {
 
   .text .p1,
   .text .p2 {
-    font-size: 14px;
+    font-size: 16px;
   }
 
   .text h2 {
